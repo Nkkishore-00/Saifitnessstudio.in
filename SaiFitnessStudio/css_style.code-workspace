@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/css_style"
+		},
+		{
+			"path": "../../../../xampp/htdocs/yt"
+		},
+		{
+			"path": "../../Desktop/kaashiv_pro"
+		},
+		{
+			"path": "D:/Pro/js.validation"
+		},
+		{
+			"path": "../../../../xampp/htdocs/sriniform"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css_style"
+	}
+}
